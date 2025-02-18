@@ -1,2 +1,0 @@
-# SharedNotes
-Publish Specific Notes
