@@ -1,12 +1,14 @@
+
+# Process
 ![img](Process.png)
 
-# Overview 
+# Process Description 
 
 ## Prerequisites
 ### Customer Access List
 - **Initial Setup by TL L1** based on existing documentation
 - **Maintained by ??**
-- Centalized list of customers.    
+- Centralized list of customers.    
     - Contact person(s) for new account requests. (For email, define fields To and CC)
 	    - Customer
 	    - CC
@@ -72,10 +74,7 @@
 
 - **Automate account requests**: Mail Merge    
 
-
-
-
-## Remarks
+# Remarks
 
 - We should not create accounts before the engineer has started
 	- Sharing Personal Info
