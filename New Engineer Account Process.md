@@ -73,6 +73,7 @@
 # Automation
 
 - **Automate account requests**: Mail Merge    
+	![](https://youtu.be/yj_s3cdfVDY?si=C8YhENnUfC_NkN5V)
 
 # Remarks
 
