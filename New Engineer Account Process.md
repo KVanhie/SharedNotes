@@ -1,11 +1,11 @@
-![[Pasted image 20250219104905.png]]
+![img](Process.png)
+
 # Overview 
 
 ## Prerequisites
 ### Customer Access List
 - **Initial Setup by TL L1** based on existing documentation
 - **Maintained by ??**
-
 - Centalized list of customers.    
     - Contact person(s) for new account requests. (For email, define fields To and CC)
 	    - Customer
