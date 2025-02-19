@@ -61,11 +61,11 @@
 
 # Responsibilities
 
-| **Role**           | **Responsibilities**                                                                                                         |
-| ------------------ | ---------------------------------------------------------------------------------------------------------------------------- |
-| **Team Lead (TL)** | - Maintain customer access list- Submit account requests- Track progress and follow up- Verify access before the work begins |
-| **New Engineer**   | - Provide required details- Monitor Follow-Up Document- Test access when account is ready                                    |
-| **CSM**            | - Escalate unresolved issues to customers                                                                                    |
+| **Role**           | **Responsibilities**                                                                   |
+| ------------------ | -------------------------------------------------------------------------------------- |
+| **Team Lead (TL)** | - Maintain customer access list- Submit account requests- Track progress and follow up |
+| **New Engineer**   | Complete account setup - Update Follow-Up Document- Test access when account is ready  |
+| **CSM**            | - Escalate unresolved issues to customers                                              |
 
 
 # Automation
