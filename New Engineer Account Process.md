@@ -71,3 +71,13 @@
 # Automation
 
 - **Automate account requests**: Mail Merge    
+
+
+
+
+## Remarks
+
+- We should not create accounts before the engineer has started
+	- Sharing Personal Info
+	- Account and Email Setup is required (InteralIT)
+- I don't believe Xurrent is a good way to track the progress. We could create a single ticket, referencing the follow up document. Maybe we can use it for escalations?
