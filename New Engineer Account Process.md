@@ -72,8 +72,14 @@
 
 # Automation
 
+
+# Automation
+
 - **Automate account requests**: Mail Merge    
+	[Youtube](https://youtu.be/yj_s3cdfVDY?si=C8YhENnUfC_NkN5V)
 	![](https://youtu.be/yj_s3cdfVDY?si=C8YhENnUfC_NkN5V)
+   
+
 
 # Remarks
 
