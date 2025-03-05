@@ -1,10 +1,13 @@
 ## Publish Notes
 
 
+```dataview
+TABLE WITHOUT ID
+  link(file.path, truncate(file.name, 28)) as Note,
+  dateformat(share_updated, "yyyy-MM-dd") as "Shared on", 
+  elink(share_link, regexreplace(share_link, "^.*?(\w+)(#.+?|)$", "$1")) as Link,
+  choice(regextest("#", share_link), "🔒", "") as ""
+WHERE share_link
+```
 
-Deployments
-	https://vercel.com/kvanhie-s-projects/vercel
 
-Links
-	Linked from Home: https://vercel-plum-gamma-68.vercel.app/
-	Not Linked from Home: https://vercel-plum-gamma-68.vercel.app/publish/hidden
