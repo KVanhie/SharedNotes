@@ -1,3 +1,9 @@
+---
+Links:
+  - "[[Notes]]"
+---
+
+
 ## Publish Notes
 
 
